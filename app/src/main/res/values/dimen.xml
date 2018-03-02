@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_size">24sp</dimen>
+    <dimen name="tv_description_size">18sp</dimen>
+    <dimen name="row_layout_margin">16dp</dimen>
+    <dimen name="image_city_size">200dp</dimen>
+</resources>

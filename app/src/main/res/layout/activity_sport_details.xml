@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dape.tourguideapp.SportDetailsActivity">
+
+    <ImageView
+        android:id="@+id/imv_sport"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_city_size"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/football_pescara"/>
+    <ListView
+        android:id="@+id/lsv_sport_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

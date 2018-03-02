@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">City of Pescara</string>
+    <string name="name">Name</string>
+    <string name="position">Position</string>
+    <string name="image_city">Images</string>
+
+    <string name="info">Info</string>
+    <string name="country">Country</string>
+    <string name="description_country">Italy</string>
+    <string name="region">Region</string>
+    <string name="description_region">Abruzzo</string>
+    <string name="altitude">Altitude</string>
+    <string name="description_altitude">4 meters above sea level</string>
+    <string name="population">Population</string>
+    <string name="description_population">123.077 inhabitants</string>
+    <string name="patron_of_the_city">Patron of the city</string>
+    <string name="description_patron_of_the_city">San Cetteo</string>
+    <string name="patronal_feast">Patronal feast</string>
+    <string name="description_patronal_feast">10 October</string>
+    <string name="university">University</string>
+    <string name="description_university">University Gabriele D\'Annunzio</string>
+
+    <string name="fun">Fun</string>
+    <string name="cinema">Cinema</string>
+    <string name="cinema_one">CityPlex</string>
+    <string name="address_cinema_one">Via Caduta del Forte 15, Pescara</string>
+    <string name="cinema_two">Multicinema</string>
+    <string name="address_cinema_two">Via Federico Fellini 2, Pescara</string>
+    <string name="theater">Theater</string>
+    <string name="theater_one">Theater Massimo</string>
+    <string name="address_theater_one">Via Caduta del Forte 15, Pescara</string>
+    <string name="theater_two">Theater Circus</string>
+    <string name="address_theater_two">Via Lanciano 1, Pescara</string>
+    <string name="theater_three">Theater Florian</string>
+    <string name="address_theater_three">Via Valle Roveto 39, Pescara</string>
+    <string name="theater_four">Theater Gabriele D\'Annunzio</string>
+    <string name="address_theater_four"> Lungo Mare Colombo Cristoforo 122, Pescara</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="nightlife_one">Jayson\'s</string>
+    <string name="address_nightlife_one">Via Marconi 283, Pescara</string>
+    <string name="nightlife_two">Cutty Sark</string>
+    <string name="address_nightlife_two">Via Raffaele Paolucci 3, Pescara</string>
+    <string name="nightlife_three">4 Vele</string>
+    <string name="address_nightlife_three">Viale Riviera 45, Pescara</string>
+    <string name="nightlife_four">Zenzero</string>
+    <string name="address_nightlife_four">Corso Manthonè 41, Pescara</string>
+    <string name="nightlife_five">Dapper</string>
+    <string name="address_nightlife_five">Via Nicola Fabrizi 234, Pescara</string>
+
+    <string name="food">Food</string>
+    <string name="pizzeria">Pizzeria</string>
+    <string name="pizzeria_one">Pizzeria Il Ciocco</string>
+    <string name="address_pizzeria_one">Viale Guglielmo Marconi, Pescara</string>
+    <string name="pizzeria_two">Donna Tina</string>
+    <string name="address_pizzeria_two">Via Marco Polo 54, Pescara</string>
+    <string name="pizzeria_three">Buffalo Bill</string>
+    <string name="address_pizzeria_three">Via Tommaso da Celano 22, Pescara</string>
+    <string name="pizzeria_four">Trieste Pizza</string>
+    <string name="address_pizzeria_four">Via Firenze 216, Pescara</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="restaurant_one">Restaurant Paneolio</string>
+    <string name="address_restaurant_one">Via Giovanni Caboto 19, Pescara</string>
+    <string name="restaurant_two">Restaurant Da Attilio</string>
+    <string name="address_restaurant_two">Lungomare Papa Giovanni XXIII 75, Pescara</string>
+    <string name="restaurant_three">Dei Pani e Dei Pesci</string>
+    <string name="address_restaurant_three">Piazza Michele Muzii 52, Pescara</string>
+    <string name="restaurant_four">Alla Brace</string>
+    <string name="address_restaurant_four">Via Marco Polo 12, Pescara</string>
+
+    <string name="sport">Sport</string>
+    <string name="football">Soccer</string>
+    <string name="football_stadium">Stadium Adriatico Giovanni Cornacchia</string>
+    <string name="address_football_stadium">Viale Vittorio Pepe, Pescara</string>
+    <string name="football_five">Soccer to five</string>
+    <string name="football_five_stadium">Palarigopiano</string>
+    <string name="address_five_football_stadium">Via Rigopiano, Pescara</string>
+</resources>
